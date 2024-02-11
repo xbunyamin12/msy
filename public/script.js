@@ -38,7 +38,7 @@ function resetGif() {
 
 function sayHastaLaVista() {
     var h1Elementi = document.getElementById("baslik");
-            var yeniMetin = "Hasta la vista Baby !!!";
+            var yeniMetin = "Görüşürüz Bebeğim !!!";
             h1Elementi.innerHTML = yeniMetin;
             document.getElementById('gif').src = 'son.gif';
 }
